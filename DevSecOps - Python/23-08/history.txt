@@ -1,0 +1,4 @@
+the number is 12 byte  which means 96 bitsthe number is 12 byte  which means 96 bits
+the number is 34 gb  which means 292057776128 bits
+the number is 155 gb  which means 1331439861760 bits
+the number is 23 bits  
